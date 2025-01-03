@@ -1,0 +1,212 @@
+[
+    {
+        "date": "06.01.2025",
+        "time": "17:00",
+        "summary": "Neujahrsfeier Ehrenamt"
+    },
+    {
+        "date": "01.02.2025",
+        "time": "10:00",
+        "summary": "Probentag - Exequien"
+    },
+    {
+        "date": "23.02.2025",
+        "time": "10:30",
+        "summary": "K - Auftritt - GD"
+    },
+    {
+        "date": "23.03.2025",
+        "time": "10:30",
+        "summary": "GD - Familiengottesdienst"
+    },
+    {
+        "date": "20.04.2025",
+        "time": "10:30",
+        "summary": "PC - Auftritt - GD - Ostersonntag (UNTER VORBEHALT)"
+    },
+    {
+        "date": "21.04.2025",
+        "time": "10:30",
+        "summary": "PC - Auftritt - GD - Osterlieder (UNTER VORBEHALT)"
+    },
+    {
+        "date": "27.04.2025",
+        "time": "10:30",
+        "summary": "PC - Auftritt - GD - Open Air"
+    },
+    {
+        "date": "11.05.2025",
+        "time": "10:30",
+        "summary": "PC - Auftritt - Jubelkonfirmation (UNTER VORBEHALT)"
+    },
+    {
+        "date": "17.05.2025",
+        "time": "14:00",
+        "summary": "Gemeinsamer Probentag Exequien (Solisten, Kantoreien)"
+    },
+    {
+        "date": "18.05.2025",
+        "time": "10:30",
+        "summary": "PC - Auftritt - GD - Open Air"
+    },
+    {
+        "date": "08.06.2025",
+        "time": "10:30",
+        "summary": "GD - Familiengottesdienst mit Konfirmation"
+    },
+    {
+        "date": "14.06.2025",
+        "time": "00:00",
+        "summary": "Konzerte Exequien"
+    },
+    {
+        "date": "15.06.2025",
+        "time": "10:30",
+        "summary": "PC - Auftritt - GD - Open Air"
+    },
+    {
+        "date": "15.06.2025",
+        "time": "14:30",
+        "summary": "Probe - Exequien"
+    },
+    {
+        "date": "15.06.2025",
+        "time": "17:00",
+        "summary": "Konzert - Exequien"
+    },
+    {
+        "date": "19.07.2025",
+        "time": "16:00",
+        "summary": "Sommerabschlusskonzert I/II"
+    },
+    {
+        "date": "20.07.2025",
+        "time": "16:00",
+        "summary": "Sommerabschlusskonzert II/II (Mit Grillfest)"
+    },
+    {
+        "date": "21.07.2025",
+        "time": "00:00",
+        "summary": "SOMMERPAUSE"
+    },
+    {
+        "date": "31.08.2025",
+        "time": "10:00",
+        "summary": "PC - Auftritt - GD - Michaelstein (UNTER VORBEHALT)"
+    },
+    {
+        "date": "12.09.2025",
+        "time": "00:00",
+        "summary": "Freizeit - Baltrum"
+    },
+    {
+        "date": "05.10.2025",
+        "time": "10:30",
+        "summary": "PC - Auftritt - GD - Erntedank"
+    },
+    {
+        "date": "12.10.2025",
+        "time": "10:30",
+        "summary": "GD - Erntedankfest"
+    },
+    {
+        "date": "25.10.2025",
+        "time": "13:00",
+        "summary": "PC - Workshop (UNTER VORBEHALT)"
+    },
+    {
+        "date": "27.10.2025",
+        "time": "18:30",
+        "summary": "KANTOREI - Probe - WO"
+    },
+    {
+        "date": "31.10.2025",
+        "time": "10:30",
+        "summary": "GD - Reformationsfest (UNTER VORBEHALT)"
+    },
+    {
+        "date": "03.11.2025",
+        "time": "18:30",
+        "summary": "KANTOREI - Probe - WO"
+    },
+    {
+        "date": "10.11.2025",
+        "time": "18:30",
+        "summary": "KANTOREI - Probe - WO"
+    },
+    {
+        "date": "11.11.2025",
+        "time": "17:00",
+        "summary": "PC - Auftritt - Martinstag"
+    },
+    {
+        "date": "16.11.2025",
+        "time": "12:00",
+        "summary": "PC - Auftritt - Volkstrauertag"
+    },
+    {
+        "date": "17.11.2025",
+        "time": "18:30",
+        "summary": "KANTOREI - Probe - WO"
+    },
+    {
+        "date": "23.11.2025",
+        "time": "15:00",
+        "summary": "PC - Auftritt - Ewigkeitssonntag"
+    },
+    {
+        "date": "24.11.2025",
+        "time": "18:30",
+        "summary": "KANTOREI - Probe - WO"
+    },
+    {
+        "date": "28.11.2025",
+        "time": "17:00",
+        "summary": "PC - Auftritt - Andacht - Eröffnung Schlossweihnacht"
+    },
+    {
+        "date": "01.12.2025",
+        "time": "18:30",
+        "summary": "KANTOREI - Probe - WO"
+    },
+    {
+        "date": "05.12.2025",
+        "time": "17:00",
+        "summary": "PC - Auftritt - Eröffnung Weihnachtsmarkt"
+    },
+    {
+        "date": "06.12.2025",
+        "time": "00:00",
+        "summary": "PC - Auftritt Weihnachtsmarkt"
+    },
+    {
+        "date": "08.12.2025",
+        "time": "18:30",
+        "summary": "KANTOREI - Probe - WO"
+    },
+    {
+        "date": "13.12.2025",
+        "time": "00:00",
+        "summary": "PC - Auftritt - Weihnachtsmarkt"
+    },
+    {
+        "date": "14.12.2025",
+        "time": "16:00",
+        "summary": "Konzert - Weihnachtsoratorium"
+    },
+    {
+        "date": "20.12.2025",
+        "time": "13:00",
+        "summary": "Krippenspiel - Generalprobe"
+    },
+    {
+        "date": "24.12.2025",
+        "time": "15:00",
+        "summary": "PC - Auftritt - Krippenspiel"
+    },
+    {
+        "date": "26.12.2025",
+        "time": "10:30",
+        "summary": "PC - Auftritt - GD"
+    }
+]
