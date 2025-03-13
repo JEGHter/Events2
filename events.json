@@ -335,6 +335,11 @@
         "end": "2025-03-20 18:15:00"
     },
     {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-03-21 18:00:00",
+        "end": "2025-03-21 20:00:00"
+    },
+    {
         "summary": "Kantorei - Probe",
         "start": "2025-03-24 18:30:00",
         "end": "2025-03-24 20:00:00"
@@ -353,6 +358,11 @@
         "summary": "Kinderchor - Probe",
         "start": "2025-03-27 17:30:00",
         "end": "2025-03-27 18:15:00"
+    },
+    {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-03-28 18:00:00",
+        "end": "2025-03-28 20:00:00"
     },
     {
         "summary": "Probentag - Exequien",
@@ -380,6 +390,11 @@
         "end": "2025-04-03 18:15:00"
     },
     {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-04-04 18:00:00",
+        "end": "2025-04-04 20:00:00"
+    },
+    {
         "summary": "Kantorei - Probe",
         "start": "2025-04-07 18:30:00",
         "end": "2025-04-07 20:00:00"
@@ -398,6 +413,11 @@
         "summary": "Kinderchor - Probe",
         "start": "2025-04-10 17:30:00",
         "end": "2025-04-10 18:15:00"
+    },
+    {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-04-11 18:00:00",
+        "end": "2025-04-11 20:00:00"
     },
     {
         "summary": "Chor - Probe",
@@ -420,6 +440,11 @@
         "end": "2025-04-17 18:15:00"
     },
     {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-04-18 18:00:00",
+        "end": "2025-04-18 20:00:00"
+    },
+    {
         "summary": "Kantorei - Auftritt - GD - Ostersonntag",
         "start": "2025-04-20 10:30:00",
         "end": "2025-04-20 11:30:00"
@@ -438,6 +463,11 @@
         "summary": "Kinderchor - Probe",
         "start": "2025-04-24 17:30:00",
         "end": "2025-04-24 18:15:00"
+    },
+    {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-04-25 18:00:00",
+        "end": "2025-04-25 20:00:00"
     },
     {
         "summary": "Posaunenchor - Open-Air-Gottesdienst",
@@ -463,6 +493,11 @@
         "summary": "Kinderchor - Probe",
         "start": "2025-05-01 17:30:00",
         "end": "2025-05-01 18:15:00"
+    },
+    {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-05-02 18:00:00",
+        "end": "2025-05-02 20:00:00"
     },
     {
         "summary": "Probentag - Exequien",
@@ -495,6 +530,11 @@
         "end": "2025-05-08 18:15:00"
     },
     {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-05-09 18:00:00",
+        "end": "2025-05-09 20:00:00"
+    },
+    {
         "summary": "Chor - Probe",
         "start": "2025-05-12 18:30:00",
         "end": "2025-05-12 20:00:00"
@@ -513,6 +553,11 @@
         "summary": "Kinderchor - Probe",
         "start": "2025-05-15 17:30:00",
         "end": "2025-05-15 18:15:00"
+    },
+    {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-05-16 18:00:00",
+        "end": "2025-05-16 20:00:00"
     },
     {
         "summary": "Gemeinsamer Probentag Exequien (Solisten, Kantoreien)",
@@ -550,6 +595,11 @@
         "end": "2025-05-22 18:15:00"
     },
     {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-05-23 18:00:00",
+        "end": "2025-05-23 20:00:00"
+    },
+    {
         "summary": "Chor - Probe",
         "start": "2025-05-26 18:30:00",
         "end": "2025-05-26 20:00:00"
@@ -558,6 +608,11 @@
         "summary": "Posaunenchor - Probe",
         "start": "2025-05-28 19:30:00",
         "end": "2025-05-28 21:00:00"
+    },
+    {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-05-30 18:00:00",
+        "end": "2025-05-30 20:00:00"
     },
     {
         "summary": "Probentag - Exequien",
@@ -588,6 +643,11 @@
         "summary": "Kinderchor - Probe",
         "start": "2025-06-05 17:30:00",
         "end": "2025-06-05 18:15:00"
+    },
+    {
+        "summary": "Exequien - Einstudierung",
+        "start": "2025-06-06 18:00:00",
+        "end": "2025-06-06 20:00:00"
     },
     {
         "summary": "Kinderchor/Posaunenchor - Familiengottesdienst mit Konfirmation",
