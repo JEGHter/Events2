@@ -1,1227 +1,1090 @@
-[
-    {
-        "summary": "WO - Probentag",
-        "start": "2024-09-28 12:00:00",
-        "end": "2024-09-28 16:00:00"
-    },
-    {
-        "summary": "WO - Stimmprobe",
-        "start": "2024-10-11 17:30:00",
-        "end": "2024-10-11 19:00:00"
-    },
-    {
-        "summary": "WO - Probentag",
-        "start": "2024-10-12 12:00:00",
-        "end": "2024-10-12 18:00:00"
-    },
-    {
-        "summary": "Chorprojekt Timmenrode",
-        "start": "2024-10-26 00:00:00",
-        "end": "2024-10-27 00:00:00"
-    },
-    {
-        "summary": "Kino-Abend",
-        "start": "2024-10-30 18:30:00",
-        "end": "2024-10-30 21:00:00"
-    },
-    {
-        "summary": "PC - Kinoabend - EG 362 II",
-        "start": "2024-10-30 18:30:00",
-        "end": "2024-10-30 20:00:00"
-    },
-    {
-        "summary": "GD - Chorprojekt Timmenrode",
-        "start": "2024-10-31 10:30:00",
-        "end": "2024-10-31 11:30:00"
-    },
-    {
-        "summary": "WO - Sopran - Technikprobe",
-        "start": "2024-11-01 17:00:00",
-        "end": "2024-11-01 18:00:00"
-    },
-    {
-        "summary": "WO - Alt - Technikprobe",
-        "start": "2024-11-01 18:00:00",
-        "end": "2024-11-01 19:00:00"
-    },
-    {
-        "summary": "WO - Bass - Technikprobe",
-        "start": "2024-11-08 17:00:00",
-        "end": "2024-11-08 18:00:00"
-    },
-    {
-        "summary": "WO - Tenor - Technikprobe",
-        "start": "2024-11-08 18:00:00",
-        "end": "2024-11-08 19:00:00"
-    },
-    {
-        "summary": "488 Probe",
-        "start": "2024-11-09 16:30:00",
-        "end": "2024-11-09 18:00:00"
-    },
-    {
-        "summary": "AG - Kirchenmusik - Konst. Sitzung",
-        "start": "2024-11-09 18:00:00",
-        "end": "2024-11-09 20:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - Martinstag",
-        "start": "2024-11-11 17:00:00",
-        "end": "2024-11-11 17:30:00"
-    },
-    {
-        "summary": "WO - Stimmprobe",
-        "start": "2024-11-15 17:00:00",
-        "end": "2024-11-15 19:00:00"
-    },
-    {
-        "summary": "WO - Probentag",
-        "start": "2024-11-16 10:00:00",
-        "end": "2024-11-16 18:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - Volkstrauertag",
-        "start": "2024-11-17 12:00:00",
-        "end": "2024-11-17 13:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - Ewigkeitssonntag",
-        "start": "2024-11-24 15:00:00",
-        "end": "2024-11-24 16:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - Eröffnung Schlossweihnacht",
-        "start": "2024-11-29 17:00:00",
-        "end": "2024-11-29 18:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - Weihnachtsmarkt - Eröffnung",
-        "start": "2024-12-06 17:00:00",
-        "end": "2024-12-06 18:00:00"
-    },
-    {
-        "summary": "WO - Stimmprobe",
-        "start": "2024-12-06 18:30:00",
-        "end": "2024-12-06 20:00:00"
-    },
-    {
-        "summary": "WO - Probentag",
-        "start": "2024-12-07 09:00:00",
-        "end": "2024-12-07 20:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - Weihnachtsmarkt",
-        "start": "2024-12-07 17:45:00",
-        "end": "2024-12-07 18:45:00"
-    },
-    {
-        "summary": "PC - Auftritt + Singgemeinschaft",
-        "start": "2024-12-08 16:00:00",
-        "end": "2024-12-08 17:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - Weihnachtsmarkt",
-        "start": "2024-12-14 17:45:00",
-        "end": "2024-12-14 18:45:00"
-    },
-    {
-        "summary": "WO - GP",
-        "start": "2024-12-15 11:00:00",
-        "end": "2024-12-15 15:00:00"
-    },
-    {
-        "summary": "WO - Konzert",
-        "start": "2024-12-15 16:00:00",
-        "end": "2024-12-15 18:00:00"
-    },
-    {
-        "summary": "PC - AWO",
-        "start": "2024-12-18 16:00:00",
-        "end": "2024-12-18 17:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - Krippenspiel",
-        "start": "2024-12-24 15:00:00",
-        "end": "2024-12-24 16:00:00"
-    },
-    {
-        "summary": "K - Auftritt - GD",
-        "start": "2024-12-24 17:00:00",
-        "end": "2024-12-24 18:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - GD",
-        "start": "2024-12-26 10:30:00",
-        "end": "2024-12-26 11:30:00"
-    },
-    {
-        "summary": "Neujahrsfeier Ehrenamt",
-        "start": "2025-01-06 17:00:00",
-        "end": "2025-01-06 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Weihnachtsfeier",
-        "start": "2025-01-08 19:00:00",
-        "end": "2025-01-08 23:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-01-15 19:30:00",
-        "end": "2025-01-15 21:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-01-22 19:30:00",
-        "end": "2025-01-22 21:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-01-29 19:30:00",
-        "end": "2025-01-29 21:00:00"
-    },
-    {
-        "summary": "Probentag - Exequien",
-        "start": "2025-02-01 10:00:00",
-        "end": "2025-02-01 16:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-02-03 18:30:00",
-        "end": "2025-02-03 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-02-05 19:30:00",
-        "end": "2025-02-05 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-02-06 16:45:00",
-        "end": "2025-02-06 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-02-06 17:30:00",
-        "end": "2025-02-06 18:15:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-02-10 18:30:00",
-        "end": "2025-02-10 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-02-12 19:30:00",
-        "end": "2025-02-12 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-02-13 16:45:00",
-        "end": "2025-02-13 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-02-13 17:30:00",
-        "end": "2025-02-13 18:15:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-02-17 18:30:00",
-        "end": "2025-02-17 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-02-19 19:30:00",
-        "end": "2025-02-19 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-02-20 16:45:00",
-        "end": "2025-02-20 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-02-20 17:30:00",
-        "end": "2025-02-20 18:15:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-02-24 18:30:00",
-        "end": "2025-02-24 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-02-26 19:30:00",
-        "end": "2025-02-26 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-02-27 16:45:00",
-        "end": "2025-02-27 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-02-27 17:30:00",
-        "end": "2025-02-27 18:15:00"
-    },
-    {
-        "summary": "Probentag - Exequien",
-        "start": "2025-03-01 10:00:00",
-        "end": "2025-03-01 16:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-03-03 18:30:00",
-        "end": "2025-03-03 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-03-05 19:30:00",
-        "end": "2025-03-05 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-03-06 16:45:00",
-        "end": "2025-03-06 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-03-06 17:30:00",
-        "end": "2025-03-06 18:15:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-03-10 18:30:00",
-        "end": "2025-03-10 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-03-12 19:30:00",
-        "end": "2025-03-12 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-03-13 16:45:00",
-        "end": "2025-03-13 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-03-13 17:30:00",
-        "end": "2025-03-13 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-03-14 18:00:00",
-        "end": "2025-03-14 20:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-03-17 18:30:00",
-        "end": "2025-03-17 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-03-19 19:30:00",
-        "end": "2025-03-19 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-03-20 16:45:00",
-        "end": "2025-03-20 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-03-20 17:30:00",
-        "end": "2025-03-20 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-03-21 18:00:00",
-        "end": "2025-03-21 20:00:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-03-24 18:30:00",
-        "end": "2025-03-24 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-03-26 19:30:00",
-        "end": "2025-03-26 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-03-27 16:45:00",
-        "end": "2025-03-27 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-03-27 17:30:00",
-        "end": "2025-03-27 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-03-28 18:00:00",
-        "end": "2025-03-28 20:00:00"
-    },
-    {
-        "summary": "Probentag - Exequien",
-        "start": "2025-03-29 10:00:00",
-        "end": "2025-03-29 16:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-03-31 18:30:00",
-        "end": "2025-03-31 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-04-02 19:30:00",
-        "end": "2025-04-02 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-04-03 16:45:00",
-        "end": "2025-04-03 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-04-03 17:30:00",
-        "end": "2025-04-03 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-04-04 18:00:00",
-        "end": "2025-04-04 20:00:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-04-07 18:30:00",
-        "end": "2025-04-07 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-04-09 19:30:00",
-        "end": "2025-04-09 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-04-10 16:45:00",
-        "end": "2025-04-10 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-04-10 17:30:00",
-        "end": "2025-04-10 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-04-11 18:00:00",
-        "end": "2025-04-11 20:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-04-14 18:30:00",
-        "end": "2025-04-14 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-04-16 19:30:00",
-        "end": "2025-04-16 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-04-17 16:45:00",
-        "end": "2025-04-17 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-04-17 17:30:00",
-        "end": "2025-04-17 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-04-18 18:00:00",
-        "end": "2025-04-18 20:00:00"
-    },
-    {
-        "summary": "Kantorei - Auftritt - GD - Ostersonntag",
-        "start": "2025-04-20 10:30:00",
-        "end": "2025-04-20 11:30:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-04-23 19:30:00",
-        "end": "2025-04-23 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-04-24 16:45:00",
-        "end": "2025-04-24 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-04-24 17:30:00",
-        "end": "2025-04-24 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-04-25 18:00:00",
-        "end": "2025-04-25 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Open-Air-Gottesdienst",
-        "start": "2025-04-27 10:30:00",
-        "end": "2025-04-27 11:30:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-04-28 18:30:00",
-        "end": "2025-04-28 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-04-30 19:30:00",
-        "end": "2025-04-30 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-05-01 16:45:00",
-        "end": "2025-05-01 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-05-01 17:30:00",
-        "end": "2025-05-01 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-05-02 18:00:00",
-        "end": "2025-05-02 20:00:00"
-    },
-    {
-        "summary": "Probentag - Exequien",
-        "start": "2025-05-03 10:00:00",
-        "end": "2025-05-03 16:00:00"
-    },
-    {
-        "summary": "Wort und Musik",
-        "start": "2025-05-04 17:00:00",
-        "end": "2025-05-04 18:00:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-05-05 18:30:00",
-        "end": "2025-05-05 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-05-07 19:30:00",
-        "end": "2025-05-07 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-05-08 16:45:00",
-        "end": "2025-05-08 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-05-08 17:30:00",
-        "end": "2025-05-08 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-05-09 18:00:00",
-        "end": "2025-05-09 20:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-05-12 18:30:00",
-        "end": "2025-05-12 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-05-14 19:30:00",
-        "end": "2025-05-14 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-05-15 16:45:00",
-        "end": "2025-05-15 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-05-15 17:30:00",
-        "end": "2025-05-15 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-05-16 18:00:00",
-        "end": "2025-05-16 20:00:00"
-    },
-    {
-        "summary": "Gemeinsamer Probentag Exequien (Solisten, Kantoreien)",
-        "start": "2025-05-17 14:00:00",
-        "end": "2025-05-17 18:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Open-Air-Gottesdienst",
-        "start": "2025-05-18 10:30:00",
-        "end": "2025-05-18 11:30:00"
-    },
-    {
-        "summary": "Konzert Kinderchor Wernigerode",
-        "start": "2025-05-18 16:00:00",
-        "end": "2025-05-18 17:00:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-05-19 18:30:00",
-        "end": "2025-05-19 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-05-21 19:30:00",
-        "end": "2025-05-21 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-05-22 16:45:00",
-        "end": "2025-05-22 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-05-22 17:30:00",
-        "end": "2025-05-22 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-05-23 18:00:00",
-        "end": "2025-05-23 20:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-05-26 18:30:00",
-        "end": "2025-05-26 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-05-28 19:30:00",
-        "end": "2025-05-28 21:00:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-05-30 18:00:00",
-        "end": "2025-05-30 20:00:00"
-    },
-    {
-        "summary": "Probentag - Exequien",
-        "start": "2025-05-31 10:00:00",
-        "end": "2025-05-31 16:00:00"
-    },
-    {
-        "summary": "Konzert \"Pergolesi - Stabat Mater\" (TKO)",
-        "start": "2025-06-01 17:00:00",
-        "end": "2025-06-01 18:00:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-06-02 18:30:00",
-        "end": "2025-06-02 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-06-04 19:30:00",
-        "end": "2025-06-04 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-06-05 16:45:00",
-        "end": "2025-06-05 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-06-05 17:30:00",
-        "end": "2025-06-05 18:15:00"
-    },
-    {
-        "summary": "Exequien - Einstudierung",
-        "start": "2025-06-06 18:00:00",
-        "end": "2025-06-06 20:00:00"
-    },
-    {
-        "summary": "Kinderchor/Posaunenchor - Familiengottesdienst mit Konfirmation",
-        "start": "2025-06-08 10:30:00",
-        "end": "2025-06-08 11:30:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-06-09 18:30:00",
-        "end": "2025-06-09 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-06-11 19:30:00",
-        "end": "2025-06-11 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-06-12 16:45:00",
-        "end": "2025-06-12 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-06-12 17:30:00",
-        "end": "2025-06-12 18:15:00"
-    },
-    {
-        "summary": "Konzert Exequien I/II",
-        "start": "2025-06-14 00:00:00",
-        "end": "2025-06-15 00:00:00"
-    },
-    {
-        "summary": "PC - Auftritt - GD - Open Air",
-        "start": "2025-06-15 10:30:00",
-        "end": "2025-06-15 11:30:00"
-    },
-    {
-        "summary": "Probe - Exequien",
-        "start": "2025-06-15 14:30:00",
-        "end": "2025-06-15 16:00:00"
-    },
-    {
-        "summary": "Konzert - Exequien II/II",
-        "start": "2025-06-15 17:00:00",
-        "end": "2025-06-15 18:00:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-06-16 18:30:00",
-        "end": "2025-06-16 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-06-18 19:30:00",
-        "end": "2025-06-18 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-06-19 16:45:00",
-        "end": "2025-06-19 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-06-19 17:30:00",
-        "end": "2025-06-19 18:15:00"
-    },
-    {
-        "summary": "Wort und Musik",
-        "start": "2025-06-22 17:00:00",
-        "end": "2025-06-22 18:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-06-23 18:30:00",
-        "end": "2025-06-23 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-06-25 19:30:00",
-        "end": "2025-06-25 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-06-26 16:45:00",
-        "end": "2025-06-26 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-06-26 17:30:00",
-        "end": "2025-06-26 18:15:00"
-    },
-    {
-        "summary": "Kantorei - Probe",
-        "start": "2025-06-30 18:30:00",
-        "end": "2025-06-30 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-07-02 19:30:00",
-        "end": "2025-07-02 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-07-03 16:45:00",
-        "end": "2025-07-03 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-07-03 17:30:00",
-        "end": "2025-07-03 18:15:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-07-07 18:30:00",
-        "end": "2025-07-07 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-07-09 19:30:00",
-        "end": "2025-07-09 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-07-10 16:45:00",
-        "end": "2025-07-10 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-07-10 17:30:00",
-        "end": "2025-07-10 18:15:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-07-14 18:30:00",
-        "end": "2025-07-14 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Grillfest",
-        "start": "2025-07-16 19:30:00",
-        "end": "2025-07-16 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-07-17 16:45:00",
-        "end": "2025-07-17 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-07-17 17:30:00",
-        "end": "2025-07-17 18:15:00"
-    },
-    {
-        "summary": "SOMMERPAUSE",
-        "start": "2025-07-21 00:00:00",
-        "end": "2025-08-18 00:00:00"
-    },
-    {
-        "summary": "Orgelkonzert - St. Bartholomäus (Matthias Lotzmann, Orgel)",
-        "start": "2025-07-27 17:00:00",
-        "end": "2025-07-27 18:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-08-18 18:30:00",
-        "end": "2025-08-18 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-08-20 19:30:00",
-        "end": "2025-08-20 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-08-21 16:45:00",
-        "end": "2025-08-21 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-08-21 17:30:00",
-        "end": "2025-08-21 18:15:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-08-25 18:30:00",
-        "end": "2025-08-25 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-08-27 19:30:00",
-        "end": "2025-08-27 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-08-28 16:45:00",
-        "end": "2025-08-28 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-08-28 17:30:00",
-        "end": "2025-08-28 18:15:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-09-01 18:30:00",
-        "end": "2025-09-01 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-09-03 19:30:00",
-        "end": "2025-09-03 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-09-04 16:45:00",
-        "end": "2025-09-04 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-09-04 17:30:00",
-        "end": "2025-09-04 18:15:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-09-08 18:30:00",
-        "end": "2025-09-08 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-09-10 19:30:00",
-        "end": "2025-09-10 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-09-11 16:45:00",
-        "end": "2025-09-11 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-09-11 17:30:00",
-        "end": "2025-09-11 18:15:00"
-    },
-    {
-        "summary": "Freizeit - Baltrum",
-        "start": "2025-09-12 00:00:00",
-        "end": "2025-09-16 00:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-09-17 19:30:00",
-        "end": "2025-09-17 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-09-18 16:45:00",
-        "end": "2025-09-18 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-09-18 17:30:00",
-        "end": "2025-09-18 18:15:00"
-    },
-    {
-        "summary": "Wort und Musik",
-        "start": "2025-09-21 17:00:00",
-        "end": "2025-09-21 18:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-09-22 18:30:00",
-        "end": "2025-09-22 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-09-24 19:30:00",
-        "end": "2025-09-24 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-09-25 16:45:00",
-        "end": "2025-09-25 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-09-25 17:30:00",
-        "end": "2025-09-25 18:15:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-09-29 18:30:00",
-        "end": "2025-09-29 20:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-10-01 19:30:00",
-        "end": "2025-10-01 21:00:00"
-    },
-    {
-        "summary": "Chor - Konzert - \"Vivaldi: Gloria\" (Kantorei, TKO)",
-        "start": "2025-10-03 00:00:00",
-        "end": "2025-10-05 00:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Erntedankfest",
-        "start": "2025-10-05 10:30:00",
-        "end": "2025-10-05 11:30:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-10-08 19:30:00",
-        "end": "2025-10-08 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-10-09 16:45:00",
-        "end": "2025-10-09 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-10-09 17:30:00",
-        "end": "2025-10-09 18:15:00"
-    },
-    {
-        "summary": "GD - Erntedankfest",
-        "start": "2025-10-12 10:30:00",
-        "end": "2025-10-12 11:30:00"
-    },
-    {
-        "summary": "Wort und Musik",
-        "start": "2025-10-12 17:00:00",
-        "end": "2025-10-12 18:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-10-15 19:30:00",
-        "end": "2025-10-15 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-10-16 16:45:00",
-        "end": "2025-10-16 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-10-16 17:30:00",
-        "end": "2025-10-16 18:15:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-10-22 19:30:00",
-        "end": "2025-10-22 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-10-23 16:45:00",
-        "end": "2025-10-23 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-10-23 17:30:00",
-        "end": "2025-10-23 18:15:00"
-    },
-    {
-        "summary": "PC - Workshop (UNTER VORBEHALT)",
-        "start": "2025-10-25 13:00:00",
-        "end": "2025-10-25 18:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-10-27 18:30:00",
-        "end": "2025-10-27 20:30:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-10-29 19:30:00",
-        "end": "2025-10-29 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-10-30 16:45:00",
-        "end": "2025-10-30 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-10-30 17:30:00",
-        "end": "2025-10-30 18:15:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-11-03 18:30:00",
-        "end": "2025-11-03 20:30:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-11-05 19:30:00",
-        "end": "2025-11-05 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-11-06 16:45:00",
-        "end": "2025-11-06 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-11-06 17:30:00",
-        "end": "2025-11-06 18:15:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-11-10 18:30:00",
-        "end": "2025-11-10 20:30:00"
-    },
-    {
-        "summary": "PC - Auftritt - Martinstag",
-        "start": "2025-11-11 17:00:00",
-        "end": "2025-11-11 17:30:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-11-12 19:30:00",
-        "end": "2025-11-12 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-11-13 16:45:00",
-        "end": "2025-11-13 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-11-13 17:30:00",
-        "end": "2025-11-13 18:15:00"
-    },
-    {
-        "summary": "Posaunenchor - Volkstrauertag",
-        "start": "2025-11-16 12:00:00",
-        "end": "2025-11-16 13:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-11-17 18:30:00",
-        "end": "2025-11-17 20:30:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-11-19 19:30:00",
-        "end": "2025-11-19 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-11-20 16:45:00",
-        "end": "2025-11-20 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-11-20 17:30:00",
-        "end": "2025-11-20 18:15:00"
-    },
-    {
-        "summary": "Posaunenchor - Ewigkeitssonntag",
-        "start": "2025-11-23 15:00:00",
-        "end": "2025-11-23 16:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-11-24 18:30:00",
-        "end": "2025-11-24 20:30:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-11-26 19:30:00",
-        "end": "2025-11-26 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-11-27 16:45:00",
-        "end": "2025-11-27 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-11-27 17:30:00",
-        "end": "2025-11-27 18:15:00"
-    },
-    {
-        "summary": "Posaunenchor - Eröffnung Schlossweihnacht",
-        "start": "2025-11-28 17:00:00",
-        "end": "2025-11-28 18:00:00"
-    },
-    {
-        "summary": "Konzert - Mädchenchor Wernigerode",
-        "start": "2025-11-29 16:00:00",
-        "end": "2025-11-29 17:00:00"
-    },
-    {
-        "summary": "Wort und Musik",
-        "start": "2025-11-30 11:00:00",
-        "end": "2025-11-30 12:00:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-12-01 18:30:00",
-        "end": "2025-12-01 20:30:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-12-03 19:30:00",
-        "end": "2025-12-03 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-12-04 16:45:00",
-        "end": "2025-12-04 17:15:00"
-    },
-    {
-        "summary": "Kinderchor - Probe",
-        "start": "2025-12-04 17:30:00",
-        "end": "2025-12-04 18:15:00"
-    },
-    {
-        "summary": "Posaunenchor- Eröffnung Weihnachtsmarkt",
-        "start": "2025-12-05 17:00:00",
-        "end": "2025-12-05 18:00:00"
-    },
-    {
-        "summary": "PC - Auftritt Weihnachtsmarkt",
-        "start": "2025-12-06 00:00:00",
-        "end": "2025-12-07 00:00:00"
-    },
-    {
-        "summary": "Chor - Hauptprobe",
-        "start": "2025-12-06 13:00:00",
-        "end": "2025-12-06 16:30:00"
-    },
-    {
-        "summary": "Chor - Probe",
-        "start": "2025-12-08 18:30:00",
-        "end": "2025-12-08 20:30:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-12-10 19:30:00",
-        "end": "2025-12-10 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-12-11 16:45:00",
-        "end": "2025-12-11 17:15:00"
-    },
-    {
-        "summary": "Posaunenchor - Weihnachtsmarkt",
-        "start": "2025-12-13 00:00:00",
-        "end": "2025-12-14 00:00:00"
-    },
-    {
-        "summary": "Chor - Generalprobe",
-        "start": "2025-12-14 12:00:00",
-        "end": "2025-12-14 15:00:00"
-    },
-    {
-        "summary": "Konzert - Weihnachtsoratorium 1-3",
-        "start": "2025-12-14 16:00:00",
-        "end": "2025-12-14 18:00:00"
-    },
-    {
-        "summary": "Posaunenchor - Probe",
-        "start": "2025-12-17 19:30:00",
-        "end": "2025-12-17 21:00:00"
-    },
-    {
-        "summary": "Spatzenchor - Probe",
-        "start": "2025-12-18 16:45:00",
-        "end": "2025-12-18 17:15:00"
-    },
-    {
-        "summary": "Posaunenchor - Weihnachtslieder",
-        "start": "2025-12-26 10:30:00",
-        "end": "2025-12-26 11:30:00"
-    }
-]
+{
+    "Januar": [
+        {
+            "date": "06.01.2025",
+            "time": "17:00 - 20:00",
+            "summary": "Neujahrsfeier Ehrenamt"
+        },
+        {
+            "date": "08.01.2025",
+            "time": "19:00 - 23:00",
+            "summary": "Posaunenchor - Weihnachtsfeier"
+        },
+        {
+            "date": "15.01.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "22.01.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "29.01.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        }
+    ],
+    "Februar": [
+        {
+            "date": "01.02.2025",
+            "time": "10:00 - 16:00",
+            "summary": "Probentag - Exequien"
+        },
+        {
+            "date": "03.02.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "05.02.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "06.02.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "06.02.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "10.02.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        },
+        {
+            "date": "12.02.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "13.02.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "13.02.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "17.02.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "19.02.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "20.02.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "20.02.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "24.02.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        },
+        {
+            "date": "26.02.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "27.02.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "27.02.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        }
+    ],
+    "März": [
+        {
+            "date": "01.03.2025",
+            "time": "10:00 - 16:00",
+            "summary": "Probentag - Exequien"
+        },
+        {
+            "date": "03.03.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "05.03.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "06.03.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "06.03.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "10.03.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        },
+        {
+            "date": "12.03.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "13.03.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "13.03.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "14.03.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "17.03.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "19.03.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "20.03.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "20.03.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "21.03.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "24.03.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        },
+        {
+            "date": "26.03.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "27.03.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "27.03.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "28.03.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "29.03.2025",
+            "time": "10:00 - 16:00",
+            "summary": "Probentag - Exequien"
+        },
+        {
+            "date": "31.03.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        }
+    ],
+    "April": [
+        {
+            "date": "02.04.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "03.04.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "03.04.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "04.04.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "07.04.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        },
+        {
+            "date": "09.04.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "10.04.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "10.04.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "11.04.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "14.04.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "16.04.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "17.04.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "17.04.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "18.04.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "20.04.2025",
+            "time": "10:30 - 11:30",
+            "summary": "Kantorei - Auftritt - GD - Ostersonntag"
+        },
+        {
+            "date": "23.04.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "24.04.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "24.04.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "25.04.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "27.04.2025",
+            "time": "10:30 - 11:30",
+            "summary": "Posaunenchor - Open-Air-Gottesdienst"
+        },
+        {
+            "date": "28.04.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "30.04.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        }
+    ],
+    "Mai": [
+        {
+            "date": "01.05.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "01.05.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "02.05.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "03.05.2025",
+            "time": "10:00 - 16:00",
+            "summary": "Probentag - Exequien"
+        },
+        {
+            "date": "04.05.2025",
+            "time": "17:00 - 18:00",
+            "summary": "Wort und Musik"
+        },
+        {
+            "date": "05.05.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        },
+        {
+            "date": "07.05.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "08.05.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "08.05.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "09.05.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "12.05.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "14.05.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "15.05.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "15.05.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "16.05.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "17.05.2025",
+            "time": "14:00 - 18:00",
+            "summary": "Gemeinsamer Probentag Exequien (Solisten, Kantoreien)"
+        },
+        {
+            "date": "18.05.2025",
+            "time": "10:30 - 11:30",
+            "summary": "Posaunenchor - Open-Air-Gottesdienst"
+        },
+        {
+            "date": "18.05.2025",
+            "time": "16:00 - 17:00",
+            "summary": "Konzert Kinderchor Wernigerode"
+        },
+        {
+            "date": "19.05.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        },
+        {
+            "date": "21.05.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "22.05.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "22.05.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "23.05.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "26.05.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "28.05.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "30.05.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "31.05.2025",
+            "time": "10:00 - 16:00",
+            "summary": "Probentag - Exequien"
+        }
+    ],
+    "Juni": [
+        {
+            "date": "01.06.2025",
+            "time": "17:00 - 18:00",
+            "summary": "Konzert \"Pergolesi - Stabat Mater\" (TKO)"
+        },
+        {
+            "date": "02.06.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        },
+        {
+            "date": "04.06.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "05.06.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "05.06.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "06.06.2025",
+            "time": "18:00 - 20:00",
+            "summary": "Exequien - Einstudierung"
+        },
+        {
+            "date": "08.06.2025",
+            "time": "10:30 - 11:30",
+            "summary": "Kinderchor/Posaunenchor - Familiengottesdienst mit Konfirmation"
+        },
+        {
+            "date": "09.06.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "11.06.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "12.06.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "12.06.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "14.06.2025",
+            "summary": "Konzert Exequien I/II"
+        },
+        {
+            "date": "15.06.2025",
+            "time": "10:30 - 11:30",
+            "summary": "PC - Auftritt - GD - Open Air"
+        },
+        {
+            "date": "15.06.2025",
+            "time": "14:30 - 16:00",
+            "summary": "Probe - Exequien"
+        },
+        {
+            "date": "15.06.2025",
+            "time": "17:00 - 18:00",
+            "summary": "Konzert - Exequien II/II"
+        },
+        {
+            "date": "16.06.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        },
+        {
+            "date": "18.06.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "19.06.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "19.06.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "22.06.2025",
+            "time": "17:00 - 18:00",
+            "summary": "Wort und Musik"
+        },
+        {
+            "date": "23.06.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "25.06.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "26.06.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "26.06.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "30.06.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Kantorei - Probe"
+        }
+    ],
+    "Juli": [
+        {
+            "date": "02.07.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "03.07.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "03.07.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "07.07.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "09.07.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "10.07.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "10.07.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "14.07.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "16.07.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Grillfest"
+        },
+        {
+            "date": "17.07.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "17.07.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "21.07.2025 - 17.08.2025",
+            "summary": "SOMMERPAUSE"
+        },
+        {
+            "date": "27.07.2025",
+            "time": "17:00 - 18:00",
+            "summary": "Orgelkonzert - St. Bartholomäus (Matthias Lotzmann, Orgel)"
+        }
+    ],
+    "August": [
+        {
+            "date": "18.08.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "20.08.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "21.08.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "21.08.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "25.08.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "27.08.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "28.08.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "28.08.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        }
+    ],
+    "September": [
+        {
+            "date": "01.09.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "03.09.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "04.09.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "04.09.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "08.09.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "10.09.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "11.09.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "11.09.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "12.09.2025 - 15.09.2025",
+            "summary": "Freizeit - Baltrum"
+        },
+        {
+            "date": "17.09.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "18.09.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "18.09.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "21.09.2025",
+            "time": "17:00 - 18:00",
+            "summary": "Wort und Musik"
+        },
+        {
+            "date": "22.09.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "24.09.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "25.09.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "25.09.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "29.09.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        }
+    ],
+    "Oktober": [
+        {
+            "date": "01.10.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "03.10.2025 - 04.10.2025",
+            "summary": "Chor - Konzert - \"Vivaldi: Gloria\" (Kantorei, TKO)"
+        },
+        {
+            "date": "05.10.2025",
+            "time": "10:30 - 11:30",
+            "summary": "Posaunenchor - Erntedankfest"
+        },
+        {
+            "date": "08.10.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "09.10.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "09.10.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "12.10.2025",
+            "time": "10:30 - 11:30",
+            "summary": "GD - Erntedankfest"
+        },
+        {
+            "date": "12.10.2025",
+            "time": "17:00 - 18:00",
+            "summary": "Wort und Musik"
+        },
+        {
+            "date": "15.10.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "16.10.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "16.10.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "22.10.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "23.10.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "23.10.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "25.10.2025",
+            "time": "13:00 - 18:00",
+            "summary": "PC - Workshop (UNTER VORBEHALT)"
+        },
+        {
+            "date": "27.10.2025",
+            "time": "18:30 - 20:30",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "29.10.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "30.10.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "30.10.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        }
+    ],
+    "November": [
+        {
+            "date": "03.11.2025",
+            "time": "18:30 - 20:30",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "05.11.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "06.11.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "06.11.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "10.11.2025",
+            "time": "18:30 - 20:30",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "11.11.2025",
+            "time": "17:00 - 17:30",
+            "summary": "PC - Auftritt - Martinstag"
+        },
+        {
+            "date": "12.11.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "13.11.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "13.11.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "16.11.2025",
+            "time": "12:00 - 13:00",
+            "summary": "Posaunenchor - Volkstrauertag"
+        },
+        {
+            "date": "17.11.2025",
+            "time": "18:30 - 20:30",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "19.11.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "20.11.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "20.11.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "23.11.2025",
+            "time": "15:00 - 16:00",
+            "summary": "Posaunenchor - Ewigkeitssonntag"
+        },
+        {
+            "date": "24.11.2025",
+            "time": "18:30 - 20:30",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "26.11.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "27.11.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "27.11.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "28.11.2025",
+            "time": "17:00 - 18:00",
+            "summary": "Posaunenchor - Eröffnung Schlossweihnacht"
+        },
+        {
+            "date": "29.11.2025",
+            "time": "16:00 - 17:00",
+            "summary": "Konzert - Mädchenchor Wernigerode"
+        },
+        {
+            "date": "30.11.2025",
+            "time": "11:00 - 12:00",
+            "summary": "Wort und Musik"
+        }
+    ],
+    "Dezember": [
+        {
+            "date": "01.12.2025",
+            "time": "18:30 - 20:30",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "03.12.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "04.12.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "04.12.2025",
+            "time": "17:30 - 18:15",
+            "summary": "Kinderchor - Probe"
+        },
+        {
+            "date": "05.12.2025",
+            "time": "17:00 - 18:00",
+            "summary": "Posaunenchor- Eröffnung Weihnachtsmarkt"
+        },
+        {
+            "date": "06.12.2025",
+            "summary": "PC - Auftritt Weihnachtsmarkt"
+        },
+        {
+            "date": "06.12.2025",
+            "time": "13:00 - 16:30",
+            "summary": "Chor - Hauptprobe"
+        },
+        {
+            "date": "08.12.2025",
+            "time": "18:30 - 20:30",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "10.12.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "11.12.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "13.12.2025",
+            "summary": "Posaunenchor - Weihnachtsmarkt"
+        },
+        {
+            "date": "14.12.2025",
+            "time": "12:00 - 15:00",
+            "summary": "Chor - Generalprobe"
+        },
+        {
+            "date": "14.12.2025",
+            "time": "16:00 - 18:00",
+            "summary": "Konzert - Weihnachtsoratorium 1-3"
+        },
+        {
+            "date": "17.12.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
+            "date": "18.12.2025",
+            "time": "16:45 - 17:15",
+            "summary": "Spatzenchor - Probe"
+        },
+        {
+            "date": "26.12.2025",
+            "time": "10:30 - 11:30",
+            "summary": "Posaunenchor - Weihnachtslieder"
+        }
+    ]
+}
