@@ -1,11 +1,6 @@
 {
     "Januar": [
         {
-            "date": "06.01.2025",
-            "time": "17:00 - 20:00",
-            "summary": "Neujahrsfeier Ehrenamt"
-        },
-        {
             "date": "08.01.2025",
             "time": "19:00 - 23:00",
             "summary": "Posaunenchor - Weihnachtsfeier"
@@ -487,7 +482,7 @@
         },
         {
             "date": "06.06.2025",
-            "time": "18:00 - 20:00",
+            "time": "19:00 - 21:00",
             "summary": "Exequien - Einstudierung"
         },
         {
@@ -516,23 +511,14 @@
             "summary": "Kinderchor - Probe"
         },
         {
-            "date": "14.06.2025",
-            "summary": "Konzert Exequien I/II"
+            "date": "13.06.2025",
+            "time": "19:00 - 21:00",
+            "summary": "Exequien - Probe"
         },
         {
             "date": "15.06.2025",
             "time": "10:30 - 11:30",
             "summary": "PC - Auftritt - GD - Open Air"
-        },
-        {
-            "date": "15.06.2025",
-            "time": "14:30 - 16:00",
-            "summary": "Probe - Exequien"
-        },
-        {
-            "date": "15.06.2025",
-            "time": "17:00 - 18:00",
-            "summary": "Konzert - Exequien II/II"
         },
         {
             "date": "16.06.2025",
@@ -555,9 +541,9 @@
             "summary": "Kinderchor - Probe"
         },
         {
-            "date": "22.06.2025",
-            "time": "17:00 - 18:00",
-            "summary": "Wort und Musik"
+            "date": "20.06.2025",
+            "time": "19:00 - 21:00",
+            "summary": "Exequien - Einstudierung"
         },
         {
             "date": "23.06.2025",
@@ -571,7 +557,7 @@
         },
         {
             "date": "26.06.2025",
-            "time": "16:45 - 17:15",
+            "time": "17:00 - 17:30",
             "summary": "Spatzenchor - Probe"
         },
         {
@@ -592,16 +578,6 @@
             "summary": "Posaunenchor - Probe"
         },
         {
-            "date": "03.07.2025",
-            "time": "16:45 - 17:15",
-            "summary": "Spatzenchor - Probe"
-        },
-        {
-            "date": "03.07.2025",
-            "time": "17:30 - 18:15",
-            "summary": "Kinderchor - Probe"
-        },
-        {
             "date": "07.07.2025",
             "time": "18:30 - 20:00",
             "summary": "Chor - Probe"
@@ -610,16 +586,6 @@
             "date": "09.07.2025",
             "time": "19:30 - 21:00",
             "summary": "Posaunenchor - Probe"
-        },
-        {
-            "date": "10.07.2025",
-            "time": "16:45 - 17:15",
-            "summary": "Spatzenchor - Probe"
-        },
-        {
-            "date": "10.07.2025",
-            "time": "17:30 - 18:15",
-            "summary": "Kinderchor - Probe"
         },
         {
             "date": "14.07.2025",
@@ -632,26 +598,32 @@
             "summary": "Posaunenchor - Grillfest"
         },
         {
-            "date": "17.07.2025",
-            "time": "16:45 - 17:15",
-            "summary": "Spatzenchor - Probe"
-        },
-        {
-            "date": "17.07.2025",
-            "time": "17:30 - 18:15",
-            "summary": "Kinderchor - Probe"
-        },
-        {
-            "date": "21.07.2025 - 17.08.2025",
-            "summary": "SOMMERPAUSE"
+            "date": "21.07.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
         },
         {
             "date": "27.07.2025",
             "time": "17:00 - 18:00",
             "summary": "Orgelkonzert - St. Bartholomäus (Matthias Lotzmann, Orgel)"
+        },
+        {
+            "date": "28.07.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
         }
     ],
     "August": [
+        {
+            "date": "04.08.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
+        {
+            "date": "11.08.2025",
+            "time": "18:30 - 20:00",
+            "summary": "Chor - Probe"
+        },
         {
             "date": "18.08.2025",
             "time": "18:30 - 20:00",
@@ -663,16 +635,6 @@
             "summary": "Posaunenchor - Probe"
         },
         {
-            "date": "21.08.2025",
-            "time": "16:45 - 17:15",
-            "summary": "Spatzenchor - Probe"
-        },
-        {
-            "date": "21.08.2025",
-            "time": "17:30 - 18:15",
-            "summary": "Kinderchor - Probe"
-        },
-        {
             "date": "25.08.2025",
             "time": "18:30 - 20:00",
             "summary": "Chor - Probe"
@@ -681,16 +643,6 @@
             "date": "27.08.2025",
             "time": "19:30 - 21:00",
             "summary": "Posaunenchor - Probe"
-        },
-        {
-            "date": "28.08.2025",
-            "time": "16:45 - 17:15",
-            "summary": "Spatzenchor - Probe"
-        },
-        {
-            "date": "28.08.2025",
-            "time": "17:30 - 18:15",
-            "summary": "Kinderchor - Probe"
         }
     ],
     "September": [
