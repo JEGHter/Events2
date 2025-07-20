@@ -1,16 +1,6 @@
 {
     "Januar": [
         {
-            "date": "08.01.2025",
-            "time": "19:00 - 23:00",
-            "summary": "Posaunenchor - Weihnachtsfeier"
-        },
-        {
-            "date": "15.01.2025",
-            "time": "19:30 - 21:00",
-            "summary": "Posaunenchor - Probe"
-        },
-        {
             "date": "22.01.2025",
             "time": "19:30 - 21:00",
             "summary": "Posaunenchor - Probe"
@@ -611,6 +601,11 @@
             "date": "28.07.2025",
             "time": "18:30 - 20:00",
             "summary": "Chor - Probe"
+        },
+        {
+            "date": "30.07.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
         }
     ],
     "August": [
@@ -620,9 +615,19 @@
             "summary": "Chor - Probe"
         },
         {
+            "date": "06.08.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
+        },
+        {
             "date": "11.08.2025",
             "time": "18:30 - 20:00",
             "summary": "Chor - Probe"
+        },
+        {
+            "date": "13.08.2025",
+            "time": "19:30 - 21:00",
+            "summary": "Posaunenchor - Probe"
         },
         {
             "date": "18.08.2025",
